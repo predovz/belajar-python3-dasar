@@ -8,12 +8,10 @@ print(f"data = {data_2D}")
 print(f"data copy = {data_2D_copy}")
 
 # mengambil data dari nested list
-
 data = data_2D[1][0]
 print(f"data = {data}")
 
 # address semuanya
-
 print(f"address asli = {hex(id(data_2D))}")
 print(f"address copy = {hex(id(data_2D_copy))}")
 
@@ -27,7 +25,6 @@ print(f"data = {data_2D}")
 print(f"data copy = {data_2D_copy}")
 
 # kita gunakan deepcopy
-
 from copy import deepcopy
 
 data_2D = [data_0,data_1,10]
