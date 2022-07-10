@@ -39,7 +39,6 @@ while True:
 
 	for mahasiswa in data_mahasiswa:
 		KEY = mahasiswa
-		
 		NAMA = data_mahasiswa[KEY]['nama']
 		NIM = data_mahasiswa[KEY]['nim']
 		SKS = data_mahasiswa[KEY]['sks_lulus']
