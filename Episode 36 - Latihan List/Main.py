@@ -1,5 +1,4 @@
 # program list buku
-
 list_buku = []
 while True:
 	print("\nMasukan data buku")
