@@ -1,5 +1,4 @@
 # looping dictionary
-
 teman_teman = {
 	"cup":"ucup surucup",
 	"tong":"otong surotong",
@@ -9,7 +8,6 @@ teman_teman = {
 }
 
 # looping first try (yang keluar adalah keynya)
-
 for teman in teman_teman:
 	print(teman)
 
