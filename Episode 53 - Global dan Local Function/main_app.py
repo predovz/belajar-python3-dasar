@@ -18,7 +18,6 @@ if True:
 
 
 ## Variabel Local Scope
-
 def fungsi2():
     nama_local = "Ucup" # <- variabel lokal scope
 
