@@ -1,1 +1,1 @@
-data = "Mukhlish guanteng puoool!"
+data = "Aku guanteng puoool!"

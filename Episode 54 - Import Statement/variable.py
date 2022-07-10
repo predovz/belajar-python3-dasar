@@ -1,1 +1,1 @@
-data = "Faqihza guanteeeeng Habis"
+data = "Dia cantikk Abizz"
