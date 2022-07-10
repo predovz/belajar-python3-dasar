@@ -7,6 +7,7 @@ import os
 # # Membuat header program
 # os.system("clear")
 # # os.system("cls")
+
 # print(f"{'PROGRAM MENGHITUNG LUAS':^40}")
 # print(f"{'DAN KELILING PERSEGI PANJANG':^40}")
 # print(f"{'-'*40:^40}")
