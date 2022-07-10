@@ -1,7 +1,6 @@
 '''*args'''
 
 # memasukan data/argument
-
 def fungsi(nama,tinggi,berat):
     print(f"{nama} punya tinggi {tinggi} dan berat {berat}")
 
@@ -17,7 +16,6 @@ def fungsi(data_list):
 fungsi(["otong",100,120])
 
 # kenalan dengan *args
-
 def fungsi(*args):
     nama = args[0]
     tinggi = args[1]
@@ -27,7 +25,6 @@ def fungsi(*args):
 fungsi("dudung",120,120)
 
 # studi kasus
-
 def tambah(*data):
     # data tipenya adalah tuple, dia bisa diiterasi
     output = 0
