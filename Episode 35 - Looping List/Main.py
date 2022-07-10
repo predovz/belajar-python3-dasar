@@ -1,5 +1,3 @@
-# looping dari list
-
 # for loop
 print("For Loop")
 kumpulan_angka = [4,3,2,5,6,1]
