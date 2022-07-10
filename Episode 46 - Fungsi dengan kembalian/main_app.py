@@ -6,7 +6,6 @@
 #       return output
 
 # fungsi kuadrat    
-
 def kuadrat(input_angka):
     '''Fungsi kuadrat'''
     output_kuadrat = input_angka**2
@@ -21,7 +20,6 @@ z = 10 + kuadrat(7)
 print(z)
 
 # fungsi tambah
-
 def fungsi_tambah(angka_1,angka_2):
     '''fungsi return dengan multi input'''
     return angka_1 + angka_2
@@ -30,7 +28,6 @@ a = fungsi_tambah(10,8)
 print(a)
 
 # fungsi dengan return banyak
-
 def operasi_matematika(angka_1,angka_2):
     tambah = angka_1 + angka_2
     kurang = angka_1 - angka_2
