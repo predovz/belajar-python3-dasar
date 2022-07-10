@@ -14,7 +14,6 @@ fungsi(True)
 '''
 
 # penggunaan type hints
-
 import string
 
 def sepuluh_pangkat(argument:int) -> int:
