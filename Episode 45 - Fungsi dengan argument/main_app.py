@@ -2,7 +2,7 @@
 
 # Template
 # def nama_fungsi(argument):
-#     Badan fungsi
+#   Badan fungsi
 
 
 def hello_world(nama):
@@ -14,7 +14,6 @@ hello_world("ucup")
 hello_world("Asyep")
 
 # program tambah
-
 def tambah(angka_1,angka_2):
     '''fungsi tambah'''
     hasil = angka_1 + angka_2
