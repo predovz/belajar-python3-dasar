@@ -17,7 +17,6 @@ fungsi(nama="ucup",tinggi=183,berat=79)
 
 
 # studi kasus
-
 def math(*args,**kwargs):
     output = 0
     if kwargs["option"] == "tambah":
