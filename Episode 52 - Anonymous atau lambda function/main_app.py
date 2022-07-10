@@ -13,8 +13,6 @@ print(f"hasil lambda kuadrat = {kuadrat(5)}")
 pangkat = lambda num,pow : num**pow
 print(f"hasil lambda pangkat = {pangkat(4,2)}")
 
-## kegunaan apa bang?
-
 # sorting untuk list biasa
 data_list = ["Otong","Ucup","Dudung"]
 data_list.sort()
@@ -56,7 +54,6 @@ print(data_3)
 
 # anonymous function
 # currying <- Haskell Curry 
-
 def pangkat(angka,n):
     hasil = angka**n
     return hasil
@@ -65,7 +62,6 @@ data_hasil = pangkat(5,2)
 print(f"fungsi biasa = {data_hasil}")
 
 # dengan currying menjadi
-
 def pangkat(n):
     return lambda angka:angka**n
 
