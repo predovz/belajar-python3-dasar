@@ -1,5 +1,4 @@
 # copy dictionary
-
 teman_teman = {
 	"cup":"ucup surucup",
 	"tong":"otong surotong",
